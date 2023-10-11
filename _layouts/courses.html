@@ -6,7 +6,8 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Courses</h3>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Teaching</h3>
+    <p style="margin-bottom:1cm;">I will be teaching the following courses in Winter 2024 - click for details:</p>
     {% for course in site.data.settings.courses %}
       <p><a href="{{ site.github.url }}/courses/{{ course.url}}">{{ course.name }}</a></p>
     {% endfor %}

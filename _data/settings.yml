@@ -1,7 +1,6 @@
 menu:
-- {name: 'people', url: '/people'}
-- {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
+- {name: 'research', url: '/publications'}
+- {name: 'teaching', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
@@ -11,9 +10,10 @@ people:
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+- {name: 'Course1 (Winter 2024)', url: 'course1'}
+- {name: 'Course2', url: 'course2'}
+- {name: 'Course3', url: 'course3'}
+- {name: 'Course4'}
 
 social:
 - {icon: 'github', link: 'https://github.com/LeNPaul'}
@@ -22,4 +22,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Damon', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}

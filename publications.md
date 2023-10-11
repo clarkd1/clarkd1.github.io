@@ -1,4 +1,6 @@
 ---
-layout: publications
-title: "Publications"
+layout: default
+title: "Research"
 ---
+
+Some default text.
