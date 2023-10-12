@@ -3,4 +3,4 @@ layout: default
 title: "Research"
 ---
 
-Some default text for publications page.
+Some default text for new publications page.
