@@ -1,10 +1,13 @@
 ---
 layout: page
-title: "Stellar Structures"
+title: "PUB POL 240: Microeconomics for Public Policy"
 ---
 
 #### Course Information
 
+This course is for Masters in Public Policy students. It is not suitable for economics PhD students.
+
+<!--
 [Course Outline](/courses/stellar-structures/Sample_Course_Outline.pdf)
 
 #### Lecture Notes
@@ -32,3 +35,4 @@ title: "Stellar Structures"
 #### Exams
 
 [Exam 1](/courses/stellar-structures/Sample_Exam.pdf)
+-->

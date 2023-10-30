@@ -1,8 +1,8 @@
 menu:
-- {name: 'research', url: '/publications'}
+- {name: 'working papers', url: '/workingpapers'}
+- {name: 'publications', url: '/publications'}
 - {name: 'teaching', url: '/courses'}
-- {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+- {name: 'cv', url: /courses/stellar-structures/Sample_Midterm.pdf}
 
 people:
 - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}

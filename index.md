@@ -9,3 +9,12 @@ Random text. This theme allows an academic person to showcase their research int
 <h5 class="fw-bold">Working Papers</h5>
 
 Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+
+
+#### Contact Information
+Department of Economics\
+School of Social Sciences\
+3151 Social Science Plaza\
+SSPB 3283\
+Irvine, CA 92697-5100\
+clarkd1@uci.edu
