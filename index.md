@@ -11,7 +11,7 @@ Damon Clark is an Associate Professor (with tenure) in the Department of Economi
 Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
 -->
 
-#### Contact Information
+##### Contact Information
 Department of Economics\
 School of Social Sciences\
 3151 Social Science Plaza\
