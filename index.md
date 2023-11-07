@@ -10,11 +10,3 @@ Damon Clark is an Associate Professor (with tenure) in the Department of Economi
 
 Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
 -->
-
-##### Contact Information
-Department of Economics\
-School of Social Sciences\
-3151 Social Science Plaza\
-SSPB 3283\
-Irvine, CA 92697-5100\
-clarkd1@uci.edu
